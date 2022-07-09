@@ -1,0 +1,149 @@
+* {
+  font-family: sans-serif;
+}
+.container {
+  width: 550px;
+  margin-left: auto;
+  margin-right: auto;
+}
+header p {
+  font-size: 8px;
+  font-weight: 800;
+  padding-left: 36px;
+  padding-top: 13px;
+}
+header h2 {
+  font-size: 28px;
+  padding-left: 12px;
+  font-family: "PT Sans Narrow";
+  padding-top: 4px;
+  padding-bottom: 8px;
+}
+nav ul {
+  display: flex;
+  padding-top: 6px;
+  font-size: 8px;
+  font-weight: 800;
+  padding-bottom: 6px;
+  justify-content: space-around;
+  width: 100%;
+  border-top: 2px solid;
+  border-bottom: 2px solid;
+}
+.firstsection {
+  width: 420px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.firstsection p {
+  padding-top: 32px;
+  font-size: 21px;
+  word-spacing: 1px;
+  letter-spacing: 3px;
+  padding-left: 18px;
+  padding-bottom: 3px;
+}
+.firstsection h2 {
+  padding-top: 10px;
+  font-size: 75px;
+  /* word-spacing: 0px; */
+  /* letter-spacing: 0px; */
+  width: 100%;
+}
+.firstsection h3 {
+  font-size: 45px;
+  font-weight: 200;
+  padding-top: 3px;
+  letter-spacing: 4px;
+}
+.navi {
+  padding-bottom: 2px;
+}
+.secondsection {
+  padding-top: 31px;
+  text-align: center;
+}
+.secondsection p {
+  font-size: 44px;
+  font-weight: 700;
+  word-spacing: 14px;
+  padding-top: 20px;
+  padding-bottom: 17px;
+  color: #85d9ea;
+}
+.background {
+  background-image: url(assets/bg_img2.jpg);
+}
+.thirdsection {
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.thirdsection h4 {
+  font-size: 12px;
+  word-spacing: 2px;
+}
+.thirdsection p {
+  font-size: 8px;
+  padding-top: 8px;
+  width: 461px;
+  font-weight: 600;
+  word-spacing: -1px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 11px;
+  text-align: justify;
+}
+footer p {
+  font-size: 11px;
+  text-align: right;
+  font-weight: 600;
+  padding-top: 11px;
+  padding-right: 89px;
+  padding-bottom: 9px;
+  border-top: 2px solid;
+  border-bottom: 2px solid;
+}
+footer {
+  position: relative;
+  padding-bottom: 5px;
+}
+.logos img {
+  width: 17px;
+}
+.logos {
+  position: absolute;
+  top: 10px;
+  /* right: 0; */
+  word-spacing: 4px;
+  right: 10px;
+}
+header {
+  position: relative;
+}
+header span {
+  position: absolute;
+  right: 0;
+  top: 0;
+  background-color: yellow;
+  font-size: 8px;
+  font-weight: 800;
+  padding: 7px;
+}
+.firstline {
+  width: 378px;
+  height: 8px;
+  background-color: #a3f9dc;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 18px;
+}
+.secondline {
+  width: 378px;
+  height: 8px;
+  background-color: #8ad7e9;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 18px;
+}
